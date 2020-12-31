@@ -13,6 +13,7 @@ this project allows to create a bar char race for coronavirus cases in all the w
 * random
 * datetime
 * IPython
+* Bar Chart Race
 
 ## next steps
 
