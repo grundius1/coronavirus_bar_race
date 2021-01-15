@@ -6,6 +6,8 @@
 this project allows to create a bar char race for coronavirus cases in all the world with the data obtained from our world in data.
 [Our World in Data Coronavirus dataset](https://ourworldindata.org/covid-cases)
 
+the dataset is automatically downloaded from the web
+
 ## libraries
 
 * pandas
@@ -17,7 +19,7 @@ this project allows to create a bar char race for coronavirus cases in all the w
 
 ## next steps
 
-automate the dataset download and make possible to choose the different colums to the barchart
+make possible to choose the different colums to the barchart
 
 ## result
 
