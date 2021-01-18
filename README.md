@@ -16,6 +16,7 @@ the dataset is automatically downloaded from the web
 * datetime
 * IPython
 * Bar Chart Race
+* ipwydgets
 
 ## next steps
 
@@ -25,3 +26,4 @@ make possible to choose the different colums to the barchart
 
 
 ![Result](./outputs/race.gif)
+![Result](./outputs/racecountry.gif)
